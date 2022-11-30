@@ -1,0 +1,110 @@
+-----------------------------------------
+2022-11-29
+-----------------------------------------
+Quem vai ser o Jogador 1 ?
+Nome: Gui
+-----------------------------------------
+ Quem vai ser o Jogador 2 ?
+Nome: Dan
+-----------------------------------------
+
+Rodada 1
+É a vez do jogador Gui
+ X |   |   
+   |   |   
+   |   |   
+-----------------------------------------
+
+Rodada 2
+É a vez do jogador Dan
+ X |   |   
+   | O |   
+   |   |   
+-----------------------------------------
+
+Rodada 3
+É a vez do jogador Gui
+ X | X |   
+   | O |   
+   |   |   
+-----------------------------------------
+
+Rodada 4
+É a vez do jogador Dan
+ X | X |   
+   | O | O 
+   |   |   
+-----------------------------------------
+
+Rodada 5
+É a vez do jogador Gui
+ X | X | X 
+   | O | O 
+   |   |   
+
+Jogador Gui ganhou!
+
+-----------------------------------------
+
+Rodada 6
+É a vez do jogador Dan
+-----------------------------------------
+2022-11-29
+-----------------------------------------
+Quem vai ser o Jogador 1 ?
+Nome: Gui
+-----------------------------------------
+ Quem vai ser o Jogador 2 ?
+Nome: Vini
+-----------------------------------------
+
+Rodada 1
+É a vez do jogador Gui
+   | X |   
+   |   |   
+   |   |   
+-----------------------------------------
+
+Rodada 2
+É a vez do jogador Vini
+   | X |   
+   | O |   
+   |   |   
+-----------------------------------------
+
+Rodada 3
+É a vez do jogador Gui
+   | X |   
+   | O | X 
+   |   |   
+-----------------------------------------
+
+Rodada 4
+É a vez do jogador Vini
+   | X |   
+   | O | X 
+ O |   |   
+-----------------------------------------
+
+Rodada 5
+É a vez do jogador Gui
+   | X | X 
+   | O | X 
+ O |   |   
+-----------------------------------------
+
+Rodada 6
+É a vez do jogador Vini
+ O | X | X 
+   | O | X 
+ O |   |   
+-----------------------------------------
+
+Rodada 7
+É a vez do jogador Gui
+ O | X | X 
+   | O | X 
+ O |   | X 
+
+Jogador Gui ganhou!
+
